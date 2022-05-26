@@ -9,9 +9,6 @@ import (
 	"time"
 )
 
-// Create a new type of 'deck'
-// which is a slick of string
-
 type deck []string
 
 func newDeck() deck {
